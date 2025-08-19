@@ -6,3 +6,6 @@ Python
 to install it first go into Virtual Enviroment.
 type `python -m venv your-venv-name`
 and in the terminal `pip install aiogram`
+
+
+# IT'S WORK IN PROGRESS
